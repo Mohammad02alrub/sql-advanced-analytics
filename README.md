@@ -66,7 +66,28 @@ This project demonstrates the ability to:
 
 ---
 
-## 👨‍💻 Author
-**Mohammad Abu Alrub**  
-Data Analyst | Business Intelligence | SQL & Power BI
+## ☕ Stay Connected
+
+Feel free to connect with me — I’d love to stay in touch!
+
+👉 **LinkedIn:** https://www.linkedin.com/in/mohammad-abo-al-rub-057a51243/
+
+---
+
+## 🛡️ License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and share this project with proper attribution.
+
+---
+
+## 🌟 About Me
+
+Hi! I'm Mohammad Abu Alrub — a data lover who enjoys turning messy data into something clear, useful, and impactful.
+I like creating hands-on projects that reflect how I think, learn, and solve problems.
+Every project I build helps me grow as an analyst and share what I learn with others.
+
+Let’s connect on LinkedIn!  
+👉 **https://www.linkedin.com/in/mohammad-abo-al-rub-057a51243/**
+
 
