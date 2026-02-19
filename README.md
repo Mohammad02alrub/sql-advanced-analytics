@@ -10,6 +10,8 @@ All queries are implemented in **T-SQL** and are analytics-ready for reporting a
 
 ## 🔍 Analyses Included
 
+![Data Warehouse Architecture](images/advanced_analytics.jpg)
+
 ### 1. Changes Over Time
 - Monthly and yearly sales aggregation  
 - Trend detection using chronological grouping  
