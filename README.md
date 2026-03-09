@@ -8,7 +8,7 @@ All queries are implemented in **T-SQL** and are analytics-ready for reporting a
 
 ---
 
-## 🔍 Analyses Included
+## 🔍 Analysis Included
 
 ![Advanced Analytics](images/advanced_analytics.jpg)
 
